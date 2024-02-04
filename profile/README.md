@@ -6,3 +6,8 @@ Derzeit haben wir uns auf drei Organe beschränkt:
 - Gehirn
 
 Hierfür werden Infoseiten bezüglich Anatomie, Funktionsweise und einigen weiteren Dingen erstellt.
+
+## Lizenz
+
+Wir veröffentlichen jeglichen Quellcode unserer Website unter einer GNU GPLv3 Lizenz, wobei die Inhalte der Seite seperat unter einer CC-BY-SA Lizenz veröffentlicht werden. Wir sehen dies als Beitrag zu Open Source.
+
